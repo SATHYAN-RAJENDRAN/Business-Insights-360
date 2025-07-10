@@ -17,51 +17,40 @@ Market share performance over time
 
 Drill-throughs, dynamic visuals & bookmarks for ease of navigation
 
-🛠 Tools & Skills Applied
+🧠 Skills Demonstrated
+Data Modeling (Star and Snowflake Schema Design)
+
+Data Cleaning & Transformation using Power Query
+
+Writing Advanced DAX Measures & Calculated Columns
+
+Dashboard Design, Navigation, and Storytelling
+
+Performance Optimization (file size, visual load time)
+
+Publishing & Scheduling with Power BI Service
+
+Interactive features: Bookmarks, Slicers, Drill-throughs
+
+🛠 Tools & Technologies Used
 Power BI Desktop
+
+Microsoft Excel
+
+MySQL
+
+Power Query (ETL)
 
 DAX (Data Analysis Expressions)
 
-Power Query for data cleaning and transformation
-
-Data Modeling (Star schema with 10+ tables)
-
-KPI Analysis & Visual Storytelling
-
-Power BI Service for report publishing and auto-refresh
-
-🔍 Key Business Insights
-High discounting & expenses are reducing profit margins
-
-Amazon contributes the most revenue but with low margins
-
-"AQ Home Allun 1 Gen 2" identified as a top-performing product
-
-The U.S. market is underperforming — requires attention
-
-Market share improved from 1.1% (2021) to 5.9% — strong momentum
-
-💡 Recommendations
-Review discount policies to protect margins
-
-Lower operational overheads where possible
-
-Promote high-margin products through marketing
-
-Re-align Amazon strategy to reduce associated costs
-
-Investigate performance issues in U.S. segment
-
-Focus on PC product category growth
 
 🌐 Resources
-🔗 Live Dashboard: [Add your Power BI Service link here]
+🔗 Live Dashboard: https://www.linkedin.com/redir/invalid-link-page?url=https%3A%2F%2Fapp%2epowerbi%2ecom%2Fview%3Fr%3DeyJrIjoiZWY2NmJhN2EtNmZjOS00OTUzLTk0MGUtZTlkMWJmMDgxMWFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9%26pageName%3Dc718d4740fec79c94648&lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BhFtBIsuQRfmzW9Yje%2Fg2dg%3D%3D
 
-🎥 Project Walkthrough: [Add YouTube or video link here if available]
 
 🙏 Acknowledgements
 Thanks to Dhaval Patel, Hemanand Vadivel, and the Codebasics team for building such a practical, real-world focused curriculum that made this project possible.
 
 👤 Created by
-[Your Full Name]
-[LinkedIn Profile URL]
+SATHYAN R
+https://www.linkedin.com/in/sathyanrajendran2002/
